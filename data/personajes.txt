@@ -1,0 +1,7 @@
+nombre,genero,cabello,gafas,sombrero,barba,ojos
+Ana,femenino,negro,no,no,no,cafes
+Carlos,masculino,castano,si,no,si,verdes
+Luisa,femenino,rubio,si,si,no,azules
+Valentina,femenino,castana,no,no,no,cafes
+Luis,masculino,negro,no,no,si,cafes
+Juan,masculino,negro,no,no,si,cafes
